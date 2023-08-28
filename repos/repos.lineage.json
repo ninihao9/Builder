@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "Lineage",
+      "name": "LineageOS-Ksu",
       "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm8250",
       "branch": "lineage-20",
-      "device": "lemonades",
+      "device": "Oplus9r",
       "defconfig": "vendor/kona-perf_defconfig"
     },
     "withKernelSU": true,
