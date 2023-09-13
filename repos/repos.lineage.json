@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/Geoknyda/android_kernel_samsung_universal9810",
+      "repo": "https://github.com/ninihao9/android_kernel_samsung_universal9810",
       "branch": "4.9y",
       "device": "starlte",
       "defconfig": "exynos9810-starlte_defconfig"
