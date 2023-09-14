@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/ninihao9/android_kernel_samsung_universal9810",
-      "branch": "4.9y",
-      "device": "star2lte",
-      "defconfig": "exynos9810-star2lte_defconfig"
+      "repo": "https://github.com/akeromi/a2-419",
+      "branch": "11-qpnph",
+      "device": "a2",
+      "defconfig": "vendor/sdm660_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
