@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/ninihao9/xiaomi_scarlet",
-      "branch": "a13/qpnp-haptics",
+      "repo": "https://github.com/akeromi/a2-419",
+      "branch": "11-qpnph",
       "device": "a2",
-      "defconfig": "vendor/wayne-old-perf_defconfig"
+      "defconfig": "wayne_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
