@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/ninihao9/android_kernel_samsung_universal8890",
-      "branch": "lineage-17.1",
-      "device": "s7",
-      "defconfig": "exynos8890-herolte_defconfig"
+      "repo": "https://github.com/psndna88/AGNi_pureMIUI",
+      "branch": "AGNi_sdm660",
+      "device": "Mia2",
+      "defconfig": "agni_jasmine_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
