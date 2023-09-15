@@ -5,7 +5,7 @@
       "repo": "https://github.com/psndna88/AGNi_pureMIUI",
       "branch": "AGNi_sdm660",
       "device": "Mia2",
-      "defconfig": "jasmine-perf_defconfig"
+      "defconfig": "agni_jasmine-oldcam_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
