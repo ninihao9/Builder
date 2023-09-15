@@ -5,7 +5,7 @@
       "repo": "https://github.com/akeromi/a2-419",
       "branch": "11-qpnph",
       "device": "a2",
-      "defconfig": "wayne_defconfig"
+      "defconfig": "vendor/sdm660-perf-full_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
