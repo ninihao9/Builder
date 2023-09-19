@@ -3,8 +3,8 @@
     "kernelSource": {
       "name": "Los-ksu",
       "repo": "https://github.com/ninihao9/sss8",
-      "branch": "lineage-19.1",
-      "device": "sss8",
+      "branch": "lineage-17.1",
+      "device": "sss8-10",
       "defconfig": "exynos8895-dreamlte_defconfig"
     },
     "withKernelSU": true,
