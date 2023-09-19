@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/ninihao9/android_kernel_samsung_universal8890",
-      "branch": "lineage-18.1",
-      "device": "sss8-11",
-      "defconfig": "exynos8890-herolte_defconfig"
+      "repo": "https://github.com/galaxybuild-project/android_kernel_samsung_msm8917_64",
+      "branch": "3.18.120-A10",
+      "device": "j6",
+      "defconfig": "j6primelte_lucky_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
