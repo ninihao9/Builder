@@ -5,7 +5,7 @@
       "repo": "https://github.com/morogoku/MoRoKernel-S7",
       "branch": "aio-mkv8",
       "device": "j6",
-      "defconfig": "exynos8890-herolte_defconfig"
+      "defconfig": "moro-flat_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
