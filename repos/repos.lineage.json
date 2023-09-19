@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/morogoku/MoRoKernel-S7",
-      "branch": "aio-mkv8",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm660",
+      "branch": "lineage-17.1",
       "device": "j6",
-      "defconfig": "moro-flat_defconfig"
+      "defconfig": "sdm660-perf_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
