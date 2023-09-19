@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm660",
+      "repo": "https://github.com/ninihao9/android_kernel_xiaomi_sdm660",
       "branch": "lineage-17.1",
       "device": "a2",
       "defconfig": "wayne_defconfig"
