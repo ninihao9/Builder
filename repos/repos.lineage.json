@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/psndna88/AGNi_pureMIUI",
-      "branch": "AGNi_sdm660",
-      "device": "Mia2",
-      "defconfig": "agni_jasmine-oldcam_defconfig"
+      "repo": "https://github.com/ninihao9/sss8",
+      "branch": "lineage-18.1",
+      "device": "sss8",
+      "defconfig": "exynos8895-dreamlte_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
