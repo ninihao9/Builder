@@ -5,7 +5,7 @@
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm660",
       "branch": "lineage-17.1",
       "device": "j6",
-      "defconfig": "sdm660-perf_defconfig"
+      "defconfig": "sdm660_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
