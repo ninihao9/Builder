@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/galaxybuild-project/android_kernel_samsung_msm8917_64",
-      "branch": "3.18.120-A10",
+      "repo": "https://github.com/morogoku/MoRoKernel-S7",
+      "branch": "aio-mkv8",
       "device": "j6",
-      "defconfig": "j6primelte_lucky_defconfig"
+      "defconfig": "exynos8890-herolte_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
