@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8953",
-      "branch": "lineage-18.1",
+      "repo": "https://github.com/ninihao9/android_kernel_xiaomi_msm8953",
+      "branch": "lineage-19.1",
       "device": "A1-11",
       "defconfig": "tissot_defconfig"
     },
