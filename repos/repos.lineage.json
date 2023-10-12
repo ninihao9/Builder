@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Los-ksu",
       "repo": "https://github.com/ArrowOS-Devices/android_kernel_samsung_exynos9810",
-      "branch": "lineage-19.1",
+      "branch": "arrow-12.1",
       "device": "S9-12",
       "defconfig": "exynos9810-starlte_defconfig"
     },
