@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://android.googlesource.com/kernel/msm/",
-      "branch": "refs/tags/android-12.0.0_r30",
+      "repo": "https://android.googlesource.com/kernel/msm",
+      "branch": "android-12.0.0_r30",
       "device": "S9-12",
       "defconfig": "bonito_defconfig"
     },
