@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_google_msm-4.9",
-      "branch": "twelve",
+      "repo": "https://github.com/LineageOS/android_kernel_samsung_exynos9810",
+      "branch": "lineage-20",
       "device": "S9-12",
-      "defconfig": "bonito_defconfig"
+      "defconfig": "exynos9810-starlte_defconfig"
     },
     "withKernelSU": true,
       "toolchains": [
