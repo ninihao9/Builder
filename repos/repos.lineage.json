@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Los-ksu",
-      "repo": "https://github.com/LineageOS/android_kernel_samsung_exynos9810",
-      "branch": "lineage-20",
+      "repo": "https://github.com/Cyderxxv/android_kernel_samsung_exynos9810",
+      "branch": "lineage_ksu",
       "device": "S9-12",
       "defconfig": "exynos9810-starlte_defconfig"
     },
