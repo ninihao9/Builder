@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Los-ksu",
       "repo": "https://github.com/Cyderxxv/android_kernel_samsung_exynos9810",
-      "branch": "lineage_ksu",
+      "branch": "tiramisu",
       "device": "S9-12",
       "defconfig": "exynos9810-starlte_defconfig"
     },
