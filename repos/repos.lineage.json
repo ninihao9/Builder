@@ -7,7 +7,7 @@
       "device": "S9-12",
       "defconfig": "exynos9810-starlte_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
       "toolchains": [
   {
     "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
